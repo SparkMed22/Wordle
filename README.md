@@ -71,8 +71,8 @@ El proyecto está organizado de la siguiente manera:
 
 1.  Clona el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd <NOMBRE_DEL_REPOSITORIO>
+    git clone https://github.com/SparkMed22/Wordle.git
+    cd Wordle
     ```
 2.  Asegúrate de que tus archivos JSON de datos estén en el directorio `data/`.
 

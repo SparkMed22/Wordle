@@ -1,0 +1,22 @@
+[
+  {
+    "palabra": "cloud",
+    "descripcion": "Se refiere al almacenamiento y acceso a datos y programas a través de internet en lugar de un disco duro físico."
+  },
+  {
+    "palabra": "proxy",
+    "descripcion": "Servidor que actúa como intermediario entre el usuario y otro servidor, a menudo para mejorar la seguridad o el rendimiento."
+  },
+  {
+    "palabra": "frame",
+    "descripcion": "Cada una de las imágenes individuales que componen una secuencia de video o una animación."
+  },
+  {
+    "palabra": "array",
+    "descripcion": "Estructura de datos que almacena una colección de elementos del mismo tipo en una secuencia."
+  },
+  {
+    "palabra": "virus",
+    "descripcion": "Programa informático malicioso diseñado para replicarse y propagarse a otros sistemas sin el consentimiento del usuario."
+  }
+]

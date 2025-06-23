@@ -1,0 +1,42 @@
+[
+  {
+    "palabra": "wifi",
+    "descripcion": "Tecnología que permite la interconexión inalámbrica de dispositivos electrónicos."
+  },
+  {
+    "palabra": "app",
+    "descripcion": "Programa informático diseñado para ser ejecutado en teléfonos, tabletas y otros dispositivos móviles."
+  },
+  {
+    "palabra": "byte",
+    "descripcion": "Unidad de información fundamental en informática, generalmente compuesta por ocho bits."
+  },
+  {
+    "palabra": "chip",
+    "descripcion": "Pequeño circuito integrado que contiene componentes electrónicos y se utiliza en dispositivos."
+  },
+  {
+    "palabra": "dron",
+    "descripcion": "Vehículo aéreo no tripulado, controlado remotamente o de forma autónoma, utilizado para diversas tareas."
+  },
+  {
+    "palabra": "plug",
+    "descripcion": "Conector que se inserta en un puerto o toma para establecer una conexión eléctrica o de datos."
+  },
+  {
+    "palabra": "data",
+    "descripcion": "Información digital, a menudo en formato binario, que puede ser procesada y almacenada por ordenadores."
+  },
+  {
+    "palabra": "node",
+    "descripcion": "Punto de conexión o redistribución en una red, como en redes informáticas o estructuras de datos."
+  },
+  {
+    "palabra": "sync",
+    "descripcion": "Proceso de sincronización de datos o archivos entre dos o más dispositivos para que coincidan."
+  },
+  {
+    "palabra": "root",
+    "descripcion": "Acceso privilegiado o nivel más alto de control en un sistema operativo o dispositivo."
+  }
+]

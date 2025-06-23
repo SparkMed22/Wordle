@@ -1,0 +1,22 @@
+[
+  {
+    "palabra": "router",
+    "descripcion": "Dispositivo de red que envía paquetes de datos entre redes de computadoras, dirigiéndolos a su destino correcto."
+  },
+  {
+    "palabra": "script",
+    "descripcion": "Pequeño programa o secuencia de comandos que se ejecuta para realizar tareas específicas de forma automatizada."
+  },
+  {
+    "palabra": "docker",
+    "descripcion": "Plataforma de software para crear, desplegar y ejecutar aplicaciones en contenedores, que son entornos aislados."
+  },
+  {
+    "palabra": "server",
+    "descripcion": "Ordenador o programa que proporciona recursos, datos, servicios o programas a otros ordenadores a través de una red."
+  },
+  {
+    "palabra": "laptop",
+    "descripcion": "Ordenador personal portátil que se puede transportar y usar en diferentes lugares."
+  }
+]
